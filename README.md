@@ -70,7 +70,24 @@ Seeking opportunities as a:
 where I can combine enterprise IT experience with modern Business Intelligence and Data Analytics skills.
 
 ---
+## 🌱 Currently Working On
 
+- HR Analytics Dashboard
+- Advanced SQL Business Problems
+- Power BI Portfolio Enhancement
+- Data Analytics Interview Preparation
+
+---
+## 📂 What You'll Find Here
+
+- Business Intelligence Dashboards
+- SQL Business Case Studies
+- Tableau Visualizations
+- Power BI Projects
+- Analytics Documentation
+- Enterprise Reporting Solutions
+
+----
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/urvashi-khanwalkar-922454129
